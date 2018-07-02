@@ -16,7 +16,7 @@ public class DivisionTestCase {
 	//Test case for division
 	@Test
 	public void test() {
-		int ii=5
+		int ii=5;
 		assertEquals(5, ii);
 	}
 	
